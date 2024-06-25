@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alefy Xavier
 
 - 👩‍💻 Desenvolvedor apaixonado por tecnologia.
-- 🎓 Estudante de Python e Javascript para desenvolvimento web.
+- 🎓 Estudante de Python e Typescript para desenvolvimento web.
 - 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 ##
 
