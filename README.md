@@ -1,8 +1,8 @@
 ## Olá! Eu sou Alefy Xavier
 
-- 👩‍💻 Desenvolvedor apaixonado por tecnologia.
-- 🎓 Estudante de Python e Typescript para desenvolvimento web.
-- 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+- 👩‍💻 Passionate developer about technology.
+- 🎓 Student of Python, Typescript and React Native.
+- 🌱 Always seeking to learn new technologies and improve my skills.
 ##
 
 ![Alefy00's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefy00&theme=tokyonight&layout=compact)
